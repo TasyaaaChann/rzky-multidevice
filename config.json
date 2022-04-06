@@ -1,8 +1,8 @@
 {
-	"owner": ["YourPhoneNumber@s.whatsapp.net"],
-	"session": "rzky-multidevice.json",
-	"ownername": "Rizky",
-	"namebot": "KurumiBot",
+	"owner": ["6283830815715@s.whatsapp.net"],
+	"session": "session",
+	"ownername": "Ｔａｓｙａ",
+	"namebot": "Ｔａｓｙａ B O T",
         "self": false,
 	"ignore": {
 	    "directory": ["umum"]
